@@ -1,0 +1,15 @@
+Package: com.aisite.nomoresmallapps
+Version: 0.0.1-5+debug
+Architecture: iphoneos-arm
+Maintainer: Spark
+Depends: mobilesubstrate
+Filename: ./deb/com.aisite.nomoresmallapps_iphoneos-arm.deb
+Size: 3028
+MD5sum: 8bf3cab81a71aa26c5640141b24bae83
+SHA1: 9368d3a83fbc8e6f9fe778474c87ce37906ef850
+SHA256: 10522ad66809a1de566067168db967d8c5bb28590ca4054e6a9257e3e7f615a0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!讓所有App支援iPhone X解析度
+Author: Spark
+Depiction: https://zjp4kk2007.github.io/cydiarepo/depiction/NoMoreSmallApps/index.html
+Name: NoMoreSmallApps
