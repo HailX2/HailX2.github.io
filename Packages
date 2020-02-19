@@ -1,15 +1,17 @@
-Package: com.aisite.nomoresmallapps
-Version: 0.0.1-5+debug
+Package: x.DingTalkHelperX
+Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: Spark
-Depends: mobilesubstrate
-Filename: ./deb/com.aisite.nomoresmallapps_iphoneos-arm.deb
-Size: 3028
-MD5sum: 8bf3cab81a71aa26c5640141b24bae83
-SHA1: 9368d3a83fbc8e6f9fe778474c87ce37906ef850
-SHA256: 10522ad66809a1de566067168db967d8c5bb28590ca4054e6a9257e3e7f615a0
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!讓所有App支援iPhone X解析度
-Author: Spark
-Depiction: https://zjp4kk2007.github.io/cydiarepo/depiction/NoMoreSmallApps/index.html
-Name: NoMoreSmallApps
+Depends: firmware (>= 8.0), mobilesubstrate
+Conflicts: com.kevll.dingtalkhelper
+Filename: /Users/xiao.han/Documents/deb-han/deb/x.DingTalkHelperX_1.2_iphoneos-arm.deb
+Size: 103062
+MD5sum: 3366379c2c54f512b9ff6aecc4813c17
+SHA1: c61d2db82b3b3c073c20e101c0133fe466e2954d
+SHA256: 5d09eaa460cb869c9af1ea325272eb4677e341c4c30c10097fb64b561d7e6dc1
+Section: Tweak
+Priority: optional
+Homepage: https://github.com/MacHanX/ddhelper/tree/master
+Description: 钉钉红包助手+定位助手
+Author: mxiaohan.2018@gmail.com
+Name: DingTalkHelperX
+
