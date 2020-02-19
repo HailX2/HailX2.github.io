@@ -4,14 +4,15 @@ Architecture: iphoneos-arm
 Depends: firmware (>= 8.0), mobilesubstrate
 Conflicts: com.kevll.dingtalkhelper
 Filename: ./deb/x.DingTalkHelperX_1.2_iphoneos-arm.deb
-Size: 103062
-MD5sum: 3366379c2c54f512b9ff6aecc4813c17
-SHA1: c61d2db82b3b3c073c20e101c0133fe466e2954d
-SHA256: 5d09eaa460cb869c9af1ea325272eb4677e341c4c30c10097fb64b561d7e6dc1
+Size: 103092
+MD5sum: 98d040b004333d3c4758b19d9cac0459
+SHA1: 54019285d1b4acb4002717b4c3c5be3641a63b78
+SHA256: 77c931ed2573ff52e8b691c35009b8cfe7c5771f4e208f6a6ba662c0a098b7aa
 Section: Tweak
 Priority: optional
 Homepage: https://github.com/MacHanX/ddhelper/tree/master
 Description: 钉钉红包助手+定位助手
 Author: mxiaohan.2018@gmail.com
+Depiction: https://MacHanX.github.io/depiction/DingTalkHelperX/index.html
 Name: DingTalkHelperX
 
