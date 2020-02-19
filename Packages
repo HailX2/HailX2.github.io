@@ -3,7 +3,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Depends: firmware (>= 8.0), mobilesubstrate
 Conflicts: com.kevll.dingtalkhelper
-Filename: /Users/xiao.han/Documents/deb-han/deb/x.DingTalkHelperX_1.2_iphoneos-arm.deb
+Filename: ./deb/x.DingTalkHelperX_1.2_iphoneos-arm.deb
 Size: 103062
 MD5sum: 3366379c2c54f512b9ff6aecc4813c17
 SHA1: c61d2db82b3b3c073c20e101c0133fe466e2954d
