@@ -1,14 +1,14 @@
 Package: x.DingTalkHelperX
-Version: 1.2.4
+Version: 1.2.5
 Architecture: iphoneos-arm
 Maintainer: Editornah <mxiaohan.2018@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
 Conflicts: com.kevll.dingtalkhelper
-Filename: ./deb/x.DingTalkHelperX_1.2.4_iphoneos-arm.deb
-Size: 205342
-MD5sum: 1be60bd1add8401f6c3102e2fd582ad1
-SHA1: 9498fb2ba9af1c64593d91b27bc43f99bd204059
-SHA256: 5b5996035eba9a351179a7ecb9b642e4e9396942f0516fc5933d9b4ef0b44fcc
+Filename: ./deb/x.DingTalkHelperX_1.2.5_iphoneos-arm.deb
+Size: 105694
+MD5sum: 28c5c0a6d7ae42ace19f784403fd6f66
+SHA1: 0c4a1856d3ecdd3ae792ac2f12906cc579fd263d
+SHA256: 00d84744c6dc9caea96feda855e4c8ee261e6baf8470d849dfc96964002ffec3
 Section: DingTalkHelperX
 Priority: optional
 Homepage: https:machanx.github.io
