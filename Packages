@@ -1,0 +1,21 @@
+Package: x.DingTalkHelperX
+Version: 1.2.8
+Architecture: iphoneos-arm
+Maintainer: Editornah <mxiaohan.2018@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Conflicts: com.kevll.dingtalkhelper
+Filename: ./deb/x.DingTalkHelperX_1.2.8_iphoneos-arm.deb
+Size: 220636
+MD5sum: 05997ec9cefe362f145d6dbf589e754e
+SHA1: 914f3a6f1bb0e392c775af359cde3beba0d2d32d
+SHA256: c2e60a6c37a30f00beef1f32e9f725237c8b86a413b68fa208b6c6ce890cf7fc
+Section: DingTalkHelperX
+Priority: optional
+Homepage: https:machanx.github.io
+Description: 启动页屏蔽、消息防撤回、自动抢红包
+Author: Editornah
+Depiction: https://MacHanX.github.io/depiction/DingTalkHelperX/index.html
+Icon: https://machanx.github.io/DingTalkHelperX.png
+Name: DingTalkHelperX
+Sponsor: Editornah <mxiaohan.2018@gmail.com>
+
