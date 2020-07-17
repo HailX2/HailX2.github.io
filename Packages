@@ -28,10 +28,10 @@ Maintainer: Editornah<mxiaohan.2018@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
 Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
 Filename: ./deb/x.DingTalkHelperX2_2.0.1_iphoneos-arm.deb
-Size: 115782
-MD5sum: cba22fc089ceeaa29f9e93253d412431
-SHA1: 54c4116811af452d00d2cdfeebed6a1461877dc3
-SHA256: 9bbf8bc81ccfa14efeb5fd3797ff2c176c162951d7f459aafaa8d2cc93eebd11
+Size: 115576
+MD5sum: e909659363c6253d3ce86f033a1d58bf
+SHA1: 7245b244826221f823e24cb20066fe3bf301e8a3
+SHA256: 57151885635a4a2fbdc0ca8c61943772cd1e395eb7f5fda725386c5692851a98
 Section: Tweaks
 Priority: optional
 Homepage: https://machanx.github.io
