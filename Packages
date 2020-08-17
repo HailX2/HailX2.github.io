@@ -28,10 +28,10 @@ Maintainer: Editornah<mxiaohan.2018@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
 Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
 Filename: ./deb/x.DingTalkHelperX2_2.1.2_iphoneos-arm.deb
-Size: 238246
-MD5sum: 850e5761736c9ae3a271108068f6f438
-SHA1: a270539fd17dc2de31a6eb4ad40b8cb25cc98cdc
-SHA256: 81c55c737e01b63c37521e5543725cd947818862720619d8e06a084bdfa8ff87
+Size: 237256
+MD5sum: d3a55be9fcd2c4d8e1d76ba1c46e343f
+SHA1: 3cf4ede1b85ae9675b2e268c16dd60996b0d522d
+SHA256: 1e2ee41bc89f386684ed7e667f660b32d716bcb9fdd153423f32e387ce28228e
 Section: Tweaks
 Priority: optional
 Homepage: https://cydia.editornah.top
