@@ -22,16 +22,16 @@ Name: DingTalkHelperX
 Sponsor: Editornah <mxiaohan.2018@gmail.com>
 
 Package: x.DingTalkHelperX2
-Version: 2.1.5
+Version: 2.1.6
 Architecture: iphoneos-arm
 Maintainer: Editornah<mxiaohan.2018@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
 Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
-Filename: ./deb/x.DingTalkHelperX2_2.1.5_iphoneos-arm.deb
-Size: 241640
-MD5sum: 34b7f2388bfbc03e0128d77336150620
-SHA1: 6c9410c68fd9bf3b6092e12505fd9086c6865e63
-SHA256: 7e8b0a2eacaaf40148344b38dced57fbb39fb7ad5cdd24b89e55eb8e923e0151
+Filename: ./deb/x.DingTalkHelperX2_2.1.6_iphoneos-arm.deb
+Size: 247112
+MD5sum: 5df4b73d362656666dd4c7ebeefcd446
+SHA1: 7484c4e94406b3831c4d195038240426ad1be8a8
+SHA256: bc8e24268ad0de10c83df9ad64aac0ea14a32008023346b648881390a95682a8
 Section: Tweaks
 Priority: optional
 Homepage: https://cydia.editornah.top
