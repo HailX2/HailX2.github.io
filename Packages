@@ -1,46 +1,61 @@
-Package: x.DingTalkHelperX
-Version: 1.3
+Package: com.x.nfcwriterhelper
+Version: 2.4.0
+Section: Others
+Maintainer: EVAN
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Maintainer: Editornah<mxiaohan.2018@gmail.com>
-Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
-Conflicts: com.kevll.dingtalkhelper
-Filename: ./deb/x.DingTalkHelperX_1.3_iphoneos-arm.deb
-Size: 224176
-MD5sum: 0e68b85eb9023710e2fd221b6394105a
-SHA1: 4e12f41e763cb0295bc32867b8fb2913919be700
-SHA256: 66ac04ff883bb12c5feeb53f1b77c656a991609e108e38256f3d0eb4ff0a2e1d
-Section: Tweaks
-Priority: optional
-Homepage: https://machanx.github.io
-Description: 启动页屏蔽、消息防撤回、自动抢红包、callkit语音
-Tag: purpose::extension, compatible::ios13
-Author: Editornah
-Depiction: https://MacHanX.github.io/depiction/DingTalkHelperX/index.html
-Dev: EditorNah
-Icon: file:///Library/PreferenceLoader/Preferences/DingTalkHelperX.png
-Name: DingTalkHelperX
-Sponsor: Editornah <mxiaohan.2018@gmail.com>
+Filename: /debs/4.deb
+Size: 94238
+Description: NFCWritter助手-搬运自用
+Name: NFCWriterHelper
+Author: EVAN
+Sponsor: 戏子阳
+Depiction: https://repo.editornah.top:55555/index.php?pid=4
+SileoDepiction: https://repo.editornah.top:55555/sileo/4
+MD5sum: c9015726812c0da851d5765d28a56116
+SHA1: 28ad8848dd15ed6ed851d0ac1e40668029793974
+SHA256: 3eab0410212900cb3f6016601f63e304e75e1eec5fb012214d380cd13b4abefe
 
 Package: x.DingTalkHelperX2
 Version: 2.1.7
-Architecture: iphoneos-arm
-Maintainer: Editornah<2330219387@qq.com>
+Priority: optional
+Section: Tweaks
+Maintainer: Editornah
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
 Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
-Filename: ./deb/x.DingTalkHelperX2_2.1.7_iphoneos-arm.deb
-Size: 246072
-MD5sum: e150b941b30640b383b7d29242aeb405
-SHA1: b8ca6cc1419e0dfcc626d819bde458d72eb883af
-SHA256: 54700b1b96ce11b50eead12ef05485a7e9e5386eac9f6574e0a1d4af2187da6d
-Section: Tweaks
-Priority: optional
-Homepage: https://cydia.editornah.top
-Description: 启动页屏蔽、消息防撤回、自动抢红包、callkit语音
-Tag: purpose::extension, compatible::ios14
-Author: Editornah
-Depiction: https://cydia.editornah.top/depiction/DingTalkHelperX2/index.html
-Dev: EditorNah
-Icon: file:///Library/PreferenceLoader/Preferences/DingTalkHelperX.png
+Architecture: iphoneos-arm
+Filename: /debs/3.deb
+Size: 123410
+Description: 启动页屏蔽、消息防撤回、自动抢红包、callkit语音、定位修改
 Name: DingTalkHelperX2
-Sponsor: Editornah <2330219387@qq.com>
+Author: Editornah
+Sponsor: Editornah
+Homepage: https://cydia.editornah.top
+Depiction: https://cydia.editornah.top/depiction/DingTalkHelperX2/index.html
+SileoDepiction: https://repo.editornah.top:55555/sileo/3
+Icon: file:///Library/PreferenceLoader/Preferences/DingTalkHelperX.png
+Tag: purpose::extension, compatible::ios14
+MD5sum: 40dea4329f12a7ca4d7d591b1896eaad
+SHA1: f7ded8d75f0297b03c19cfba3ad2bfa41fc4f298
+SHA256: af93b2f7e0b3f4f11ac8b563a1b154b82404613c59eb5dc8b439a0703992c54f
+
+Package: com.editornah.JDRoute
+Version: 0.1-1
+Priority: optional
+Section: Tweaks
+Maintainer: Editornah
+Depends: firmware (>= 5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: /debs/2.deb
+Size: 19450
+Description: 京东云无线宝插件，去除启动广告，显示原始插件类型，如A、B、B+等
+Name: JDRoutePlugin
+Author: editornah
+Sponsor: Editornah
+Depiction: https://repo.editornah.top:55555/index.php?pid=2
+SileoDepiction: https://repo.editornah.top:55555/sileo/2
+Icon: unknow
+MD5sum: 7cac05ad3efc5da6794c8a0d71e212bd
+SHA1: 1e831056f943b409c08108cba516c1ef50a8fbf4
+SHA256: acc13ba75bc40936ea5a2d5872c8bf6f605e48386765103c1ed7251126a88208
 
