@@ -1,3 +1,26 @@
+Package: sx.DingTalkHelperX3
+Version: 3.0
+Priority: optional
+Section: Tweaks
+Maintainer: hailxvip<hailxvip@gmail.com>
+Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
+Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
+Architecture: iphoneos-arm
+Filename: /debs/7.deb
+Size: 121452
+Description: 启动页屏蔽、消息防撤回、自动抢红包、callkit语音
+Name: DingTalkHelperX3
+Author: hailxvip
+Sponsor: hailxvip <hailxvip@gmail.com>
+Homepage: https://cydia.editornah.top
+Depiction: https://cydia.editornah.top/depiction/DingTalkHelperX2/index.html
+SileoDepiction: https://repo.editornah.top:55555/sileo/7
+Icon: file:///Library/PreferenceLoader/Preferences/DingTalkHelperX.png
+Tag: purpose::extension, compatible::ios13
+MD5sum: db4a1bd9a6eb871761187266301e2422
+SHA1: 5e19f60f75ad65e6df5f8af574db79f9e9c465e4
+SHA256: 478d33e98b0df314e1ab832e7b351511b983bf36d138735c790f90917716a2cc
+
 Package: com.x.nfcwriterhelper
 Version: 2.4.0
 Section: Others
