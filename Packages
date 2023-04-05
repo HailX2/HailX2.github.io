@@ -6,20 +6,19 @@ Maintainer: hailxvip<hailxvip@gmail.com>
 Depends: firmware (>= 8.0), mobilesubstrate, preferenceloader
 Conflicts: com.kevll.dingtalkhelper,x.DingTalkHelperX
 Architecture: iphoneos-arm
-Filename: /debs/7.deb
-Size: 121452
+Filename: /debs/8.deb
+Size: 121628
 Description: 尝试适配rootless越狱
 Name: DingTalkHelperX3
 Author: hailxvip
 Sponsor: hailxvip <hailxvip@gmail.com>
 Homepage: https://cydia.editornah.top
 Depiction: https://cydia.editornah.top/depiction/DingTalkHelperX2/index.html
-SileoDepiction: https://repo.editornah.top:55555/sileo/7
 Icon: file:///Library/PreferenceLoader/Preferences/DingTalkHelperX.png
 Tag: purpose::extension, compatible::ios13
-MD5sum: cc535a045f549c2f38bacabffe0e7824
-SHA1: d00dd65f310cc1fb1b9e6df52610df1328de9a59
-SHA256: 1a5333f792620e6a531c71d84445c1ddad1f04a3b92f4ec4c281cecd373a6d6b
+MD5sum: 843d7fecc4c6feefc883d1236410c3c6
+SHA1: 23deb1a1f5642704c79d2f4c7b44b176a0351454
+SHA256: e73849a387a19b0377957cc819402d036a818279ab0d7ea951d41ed0f334b135
 
 Package: com.x.nfcwriterhelper
 Version: 2.4.0
